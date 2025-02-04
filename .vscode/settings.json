@@ -1,0 +1,67 @@
+{
+    "cSpell.words": [
+        "COMPROMISATION",
+        "geeksforgeeks",
+        "Groq",
+        "prositehosting",
+        "selectbox",
+        "streamlit",
+        "stylable"
+    ],
+    "todo-tree.general.tagGroups": {
+        
+    },
+    "todo-tree.tree.autoRefresh": true,
+    "todo-tree.highlights.customHighlight": {
+        "WARN": {
+            "foreground": "#FFFFFF",
+            "background": "#FF0000",
+            "iconColour": "#FF0000",
+            "icon": "alert",
+            "type": "text"
+        },
+        "TODO": {
+            "foreground": "#000000",
+            "background": "#00FF00",
+            "iconColour": "#00FF00",
+            "icon": "check",
+            "type": "text"
+        },
+        "FIXME": {
+            "foreground": "#000000",
+            "background": "#FF0000",
+            "iconColour": "#FF0000",
+            "icon": "bug"
+        },
+        "REVIEW": {
+            "foreground": "#000000",
+            "background": "#00FFFF",
+            "iconColour": "#ADD8E6",
+            "icon": "eye"
+        },
+        "HACK": {
+            "foreground": "#000000",
+            "background": "#FFA500",
+            "iconColour": "#FFA500",
+            "icon": "alert"
+        },
+        "REF": {
+            "foreground": "#000000",
+            "background": "#808080",
+            "iconColour": "#808080",
+            "icon": "link",
+            "type": "tag"
+        }
+    },
+    "todo-tree.highlights.defaultHighlight": {
+        "type": "text-and-comment"
+    },
+    "todo-tree.general.tags": [
+        "TODO",
+        "FIXME",
+        "REVIEW",
+        "HACK",
+        "REF",
+        "WARN"
+    ]
+}
