@@ -1,3 +1,6 @@
 mysql-connector-python
 rsa
 groq
+streamlit_js_eval
+pyperclip
+requests
